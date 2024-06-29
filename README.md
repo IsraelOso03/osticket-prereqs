@@ -253,5 +253,3 @@ It should look something like this.</p>
 <h3>&#12887; Finalize osTicket installation</h3>
 
 <p>Click install and osTicket should begin setting up. </p>
-<p><strong>.</strong></p>
-<p><strong>.</strong></p>
