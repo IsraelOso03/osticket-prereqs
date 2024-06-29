@@ -255,11 +255,3 @@ It should look something like this.</p>
 <p>Click install and osTicket should begin setting up. </p>
 <p><strong>.</strong></p>
 <p><strong>.</strong></p>
-
-<h2> Final cleanup steps</h2>
-<p>[X] Delete "setup" file located at C:\inetpub\wwwroot\osTicket\setup</p>
-<p>[X] Set permissions of "ost-config.php" to read only.</p>
-<p> File is located at C:\inetpub\wwwroot\osTicket\include\ost-config.php</p>
-<br>
-<br>
-<h1>Congratulations!!! &#127881; you just installed osTicket</h1>
